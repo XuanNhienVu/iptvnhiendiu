@@ -36,10 +36,7 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 
 ##### CHUYÊN ĐỀ
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="bacninh" tvg-logo="https://i.ibb.co/pLwf7JF/BACNINH-BEARTV.png", Bắc Ninh
-#http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
-#http://vips-livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
-https://livecdn.fptplay.net/sdc/bacninh_2000.stream/chunklist.m3u8
-#https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
+http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="thaibinh" tvg-logo="https://i.ibb.co/f2z3wGt/THAIBINH-BEARTV.png", Thái Bình HD 
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai1" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png", Đồng Nai 1 HD 

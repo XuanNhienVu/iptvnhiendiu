@@ -3,15 +3,6 @@
 #EXTM3U BEARTV - Luôn cập nhật kênh ổn định - https://bit.ly/beartvplay
 
 ##### VTV
-#KODIPROP:inputstream=inputstream.ffmpeg
-#EXTINF:-1 group-title="" tvg-id="abc1", AA CAMERA CONG
-rtsp://admin:N71D79n98l02@192.168.1.29:554/onvif1
-#KODIPROP:inputstream=inputstream.ffmpeg
-#EXTINF:-1 group-title="" tvg-id="abc2", AB CAMERA PK
-rtsp://admin:N71D79n98l02@192.168.1.19:554/onvif1
-#KODIPROP:inputstream=inputstream.ffmpeg
-#EXTINF:-1 group-title="" tvg-id="abc3", AB CAMERA PK2
-rtsp://192.168.1.101:8554/profile0 PTZ - yes
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV1       
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -689,14 +680,42 @@ http://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH VOD" tvg-id="vtvcab13hd" tvg-logo=“http://i.ibb.co/RvzsCkn/cab13.jpg", VTV Huynhdai
 http://vips-livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/playlist.m3u8
 
-#RADIO
-#EXTINF:-1 group-title="RADIO" tvg-id="fpladio" tvg-logo=“", F.Pladio 
-http://vips-livecdn.fptplay.net/hda3/pladio_vhls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="RADIO" tvg-id="999"  tvg-logo=“",FM 99.9Mhz 
-http://strm.voh.com.vn/radio/channel3/playlist.m3u8 
-#EXTINF:-1 group-title="RADIO" tvg-id="956" tvg-logo=“",FM 95.6Mhz 
-http://strm.voh.com.vn/radio/channel1/playlist.m3u8 
-#EXTINF:-1 group-title="RADIO" tvg-id="877" tvg-logo=“",FM 87.7Mhz 
-http://strm.voh.com.vn/radio/channel5/playlist.m3u8 
-#EXTINF:-1 group-title="RADIO" tvg-id="am610" tvg-logo=“",AM 610Khz 
-http://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#Radio
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/rS7TG49.png",VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/1ZfyuG0.png",VOV3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY BẮC BỘ
+http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY NGUYÊN
+http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Cần Thơ
+http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Thành Phố Hồ Chí Minh
+http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/7o7hkWq.png",VOV5 Russian
+http://media.kythuatvov.vn:7029
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV GT Hà Nội & Hà Tây Cũ
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV GT Thành Phố Hồ Chí Minh
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png",VOV GT MEKONG
+https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_SucKhoe.png",VOV FM 89Mhz
+http://media.kythuatvov.vn:7021/;stream/
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",610Khz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png",87.7Mhz
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png",95.6Mhz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://image.ibb.co/eTNs59/r_voh99.png",99.9Mhz
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/251.png",Xone FM
+https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
+
+
+
+

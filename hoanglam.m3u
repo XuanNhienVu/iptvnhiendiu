@@ -139,6 +139,8 @@ http://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/bbOifca.png", Outdoor Channel
 http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #http://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="afnhd" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Quốc Tế", Asian Food Network
+http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="bbclifestyle" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="bbcworldnews" tvg-logo="https://i.ibb.co/K0qtvsf/BBC-Worldnews-BEARTV.png", BBC World News

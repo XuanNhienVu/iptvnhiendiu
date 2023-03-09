@@ -94,15 +94,15 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png", Cinema World HD
+#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png", Cinema World
 #http://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 http://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/pjnAxys.png", Cinemax HD 
+http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="hbohd" tvg-logo="https://i.imgur.com/w5u4IrO.png", HBO HD 
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/CnjjjjV.png", Warner HD 
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/pjnAxys.png", Cinemax HD 
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="axnhd" tvg-logo="https://i.imgur.com/3bLRZzC.png", AXN HD 
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="boxhits" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
@@ -115,14 +115,16 @@ http://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 http://pcriptv.duckdns.org:8002/live/cliptv.php?id=In-The-Box
 
 #KHÁM PHÁ-KHOA HỌC
-#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="discoveryasiahd" tvg-logo=“https://i.imgur.com/mRVV3WI.png", Discovery Asia HD 
-http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="animalhd" tvg-logo=“https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png", Animal Planet HD 
+#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="discoveryasiahd" tvg-logo=“https://i.imgur.com/mRVV3WI.png", Discovery Asia
+http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="discoveryhd" tvg-logo=“https://i.imgur.com/BFzpWER.png", Discovery
+http://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8 
+#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="animalhd" tvg-logo=“https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png", Animal Planet
 http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8  
 #http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="ngwhd" tvg-logo="https://i.imgur.com/xl56lDl.png", Nat Geo Wild HD 
+#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="ngwhd" tvg-logo="https://i.imgur.com/xl56lDl.png", Nat Geo Wild
 http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="BBC Earth HD" tvg-logo=“https://i.imgur.com/RSTTUDD.png", BBC Earth HD 
+#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="BBC Earth HD" tvg-logo=“https://i.imgur.com/RSTTUDD.png", BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
 #https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="woman" tvg-logo="https://i.imgur.com/ePYXLBQ.png", Woman
@@ -130,8 +132,6 @@ https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #http://pcriptv.duckdns.org:8002/live/cliptv.php?id=Woman
 #http://pcriptv.duckdns.org:8002/live/tv360.php?id=163
 #https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="discoveryhd" tvg-logo=“https://i.imgur.com/BFzpWER.png", Discovery HD 
-http://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8 
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/aIAaCce.png", Da Vinci
 http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="ngchd" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/OBtLQ9N.png",National Geographic
@@ -139,12 +139,14 @@ http://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/bbOifca.png", Outdoor Channel
 http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #http://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="afnhd" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Quốc Tế", Asian Food Network
+#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="afnhd" tvg-logo="https://i.imgur.com/B8zA2gc.png", Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="bbclifestyle" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="bbcworldnews" tvg-logo="https://i.ibb.co/K0qtvsf/BBC-Worldnews-BEARTV.png", BBC World News
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="cnn" tvg-name="CNN" tvg-logo="https://i.imgur.com/vBwWXZZ.png",CNN
+https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="tlchd" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="drfithd" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png", Dr. Fit
@@ -152,10 +154,8 @@ https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:0 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="fashionhd" tvg-logo="https://i.ibb.co/y4WhpNb/FASHION-TV-BEARTV.png", Fashion TV
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="blueantext" tvg-logo="https://i.imgur.com/fjBYOhl.png", Blue Ant Extreme HD 
 http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="ftvuhd" tvg-logo="http://i.ibb.co/Ctkc3Hx/FASHION.png", FTV UHD 
 http://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8 
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="Loupe4K.us" tvg-country="US" tvg-logo="http://i.ibb.co/9TyJWq7/Loupe.jpg", Loupe UHD 
@@ -269,7 +269,6 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 http://vips-livecdn.fptplay.net/sda/cantho_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Nm6tCCA.png", Cần Thơ 2 HD
 https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="caobang" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg",Cao Bằng HD 
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="backan" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_bac-kan_162952900786.jpg",Bắc Kạn 
@@ -284,7 +283,6 @@ http://103.90.220.236/lstvlive/tv1live.m3u8
 http://103.90.220.236/bgtvlive/tv1live.m3u8
 #https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 #https://live.bacgiangtv.vn/bgtvlive/tv1live.m3u8
-
 #EXTINF:-1 tvg-id="hagiang" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png", Hà Giang 
 #http://113.162.84.113:8080/hls/fm/index.m3u8
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
@@ -326,7 +324,6 @@ http://103.90.220.236/thhnlive/tv1live.m3u8
 http://103.90.220.236/nbtvlive/tv1live.m3u8 
 #EXTINF:-1 tvg-id="hoabinh" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_145681701391.jpg",Hòa Bình 
 http://vips-livecdn.fptplay.net/sda/hoabinh_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="thanhhoa" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg",Thanh Hóa HD 
 http://vips-livecdn.fptplay.net/sda/thanhhoa_hls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg",Nghệ An HD 
@@ -341,7 +338,6 @@ https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 http://103.90.220.236/qrtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="thuathienhue" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/HQ7jCa6.png",Thừa Thiên Huế 
 http://vips-livecdn.fptplay.net/sdc/hue_hls.smil/playlist.m3u8 
- 
 #EXTINF:-1 tvg-id="quangnam" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_145880919575.jpg",Quảng Nam HD 
 http://vips-livecdn.fptplay.net/sdc/quangnam_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kontum" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_kon-tum_145881138908.jpg",Kon Tum HD 

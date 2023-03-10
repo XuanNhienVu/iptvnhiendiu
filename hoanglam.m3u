@@ -41,7 +41,6 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="thaibinh" tvg-logo="https://i.ibb.co/f2z3wGt/THAIBINH-BEARTV.png", Thái Bình HD 
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
-
 #EXTINF:0 group-title="CHUYÊN ĐỀ" tvg-id="antvhd" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -67,9 +66,6 @@ http://vips-livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
 
 ### PHIM TRUYỆN
-#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV16 - Phim Nước Ngoài
-#EXTVLCOPT:http-user-agent="Bear TV"
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/n8YQ0hB/sctv14-hd-BEARTV.png",SCTV14 - Kênh Phim Việt
 https://api.anttv.xyz/get/sctv/sctv14/playlist.m3u8
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="vtvcab1hd" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png", Vie GIẢI TRÍ
@@ -122,9 +118,13 @@ http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 http://pcriptv.duckdns.org:8002/live/cliptv.php?id=Box-Hits
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="KIX" tvg-logo="https://i.imgur.com/EIpDxnQ.png", KIX 
 http://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
+##---------------------------------
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="inthebox"tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", IN THE BOX
 #https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
 http://pcriptv.duckdns.org:8002/live/cliptv.php?id=In-The-Box
+#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV16 - Phim Nước Ngoài
+#EXTVLCOPT:http-user-agent="Bear TV"
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://sctvonline.vn/
 
 #KHÁM PHÁ-KHOA HỌC
 #EXTINF:-1 group-title="KHÁM PHÁ-KHOA HỌC" tvg-id="discoveryasiahd" tvg-logo=“https://i.imgur.com/mRVV3WI.png", Discovery Asia

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml,https://gg.gg/epgphap,http://trada.info/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://trada.info/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://gg.gg/epgphap,http://lichphatsong.xyz/schedule/beartv_epg.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U Cập nhật kênh ổn định https://bit.ly/nhiendiuiptv; https://bit.ly/hoanglamiptv
 #EXTM3U Trong danh sách này có sử dụng lại tài nguyên của một số bản buill của các bạn trong cộng đồng KODIvn.
 
@@ -41,10 +41,7 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="thaibinh" tvg-logo="https://i.ibb.co/f2z3wGt/THAIBINH-BEARTV.png", Thái Bình HD 
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai1" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png", Đồng Nai 1 HD 
-http://vips-livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai2" tvg-logo="https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png", Đồng Nai 2 HD 
-http://vips-livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
+
 #EXTINF:0 group-title="CHUYÊN ĐỀ" tvg-id="antvhd" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -63,6 +60,11 @@ http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="btv9" tvg-logo="https://i.ibb.co/F08gVbK/BTV9-BEARTV.png", BTV9-AN  HD
 http://vips-livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8 
+
+#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai1" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png",Đồng Nai 1 HD 
+http://vips-livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8 
+#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai2" tvg-logo="https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png",Đồng Nai 2 HD 
+http://vips-livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
 
 ### PHIM TRUYỆN
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="vtvcab1hd" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png", Vie GIẢI TRÍ

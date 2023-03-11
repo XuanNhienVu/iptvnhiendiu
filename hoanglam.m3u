@@ -3,7 +3,7 @@
 #EXTM3U Trong danh sách này có sử dụng lại tài nguyên của một số bản buill của các bạn trong cộng đồng KODIvn.
 
 
-#EXTINF:-1 group-title="VTV" tvg-id="yoosee01" tvg-name="yoosee01" tvg-logo="https://ibb.co/khPKHqL", CAMERA SAN
+#EXTINF:-1 group-title="VTV" tvg-id="yoosee01" tvg-name="yoosee01" tvg-logo="https://ibb.co/GQHrvMk", CAMERA SAN
 rtsp://admin:N71D79n98l02@192.168.1.29:554/onvif1
 #EXTINF:-1 group-title="VTV" tvg-id="yoosee02" tvg-name="yoosee02" tvg-logo="", CAMERA PK
 rtsp://admin:N71D79n98l02@192.168.1.19:554/onvif1

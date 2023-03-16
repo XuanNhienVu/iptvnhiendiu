@@ -189,6 +189,10 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="cnn" tvg-name="CNN" tvg-logo="https://i.imgur.com/vBwWXZZ.png", CNN
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="cna" tvg-logo="g", CNA
+#EXTVLCOPT:http-user-agent="Bear TV"
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
+
 
 ### PHIM TRUYỆN
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/n8YQ0hB/sctv14-hd-BEARTV.png",SCTV14 - Kênh Phim Việt
@@ -522,11 +526,7 @@ http://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #KÊNH VOD
 #EXTINF:-1 group-title="KÊNH VOD" tvg-id="vtvcab13hd" tvg-logo=“http://i.ibb.co/RvzsCkn/cab13.jpg", VTV Huynhdai
 http://vips-livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="cna" group-title="KÊNH VOD" tvg-logo="https://i.ibb.co/NNpj992/BTV5-BEARTV.png", CNA
-#EXTVLCOPT:http-user-agent="Bear TV"
-https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
 
-https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8
 #Radio
 #EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8

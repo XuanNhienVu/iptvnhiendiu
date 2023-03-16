@@ -68,7 +68,6 @@ http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="btv9" tvg-logo="https://i.ibb.co/F08gVbK/BTV9-BEARTV.png", BTV9-AN  HD
 http://vips-livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8 
-
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai1" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png",Đồng Nai 1 HD 
 #http://vips-livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8 
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
@@ -126,7 +125,8 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="boxhits" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
 #https://api.vthanhtivi.pw/v2/getlink/mytv/105/hd.m3u8
-http://pcriptv.duckdns.org:8002/live/cliptv.php?id=Box-Hits
+#http://pcriptv.duckdns.org:8002/live/cliptv.php?id=Box-Hits
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="KIX" tvg-logo="https://i.imgur.com/EIpDxnQ.png", KIX 
 http://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 ##---------------------------------

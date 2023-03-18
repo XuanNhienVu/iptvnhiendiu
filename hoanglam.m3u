@@ -10,7 +10,6 @@ rtsp://admin:N71D79n98l02@192.168.1.8:554/onvif1
 rtsp://192.168.1.101:8554/profile0 PTZ - yes
 #EXTINF:-1 group-title="VTV" tvg-id="camimou01" tvg-name="camimou" tvg-logo="https://i.ibb.co/M50yMmH/camarabep.png", CAMERA BEP
 rtsp://admin:N71D79n98l02@192.168.1.25:554/cam/realmonitor?channel=1&subtype=0
-
 ##### VTV
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/0tWM0YN/VTV1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV1       
 #EXTVLCOPT:http-user-agent="BearTV"
@@ -52,7 +51,8 @@ http://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-id="vtc3hd" tvg-logo="https://pbs.twimg.com/media/Fa6ZTXEaMAIppZC?format=png",VTC3 HD 
 http://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://pbs.twimg.com/media/Fa6ZTXtaIAM8Y43?format=png" group-title="VTC",VTC4 HD 
-http://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/playlist.m3u8
+#http://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/playlist.m3u8
+https://1117979683.vnns.net/hda2/vtc4_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://pbs.twimg.com/media/Fa6ZW0DacAEhukR?format=png" group-title="VTC",VTC6 HD 
 http://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8 
 #EXTINF:-1 group-title="VTC" tvg-id="vtc7hd" tvg-logo="https://pbs.twimg.com/media/Fa6ZW0haMAI_4V6?format=png",VTC7 HD 
@@ -72,7 +72,8 @@ http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8?$3840x2160
 #EXTINF:-1 group-title="VTC" tvg-id="vtc14hd" tvg-logo="https://pbs.twimg.com/media/Fa6Zc1hagAI6YG2?format=png",VTC14 HD 
 http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-id="vtc16" tvg-logo="https://pbs.twimg.com/media/Fa6Zc2ZakAM-ku3?format=png",VTC16 HD 
-http://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
+#http://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
+https://1117979683.vnns.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #KÊNH SCTV
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1

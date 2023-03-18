@@ -573,7 +573,7 @@ http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 #http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="ngwhd" tvg-logo="https://i.imgur.com/xl56lDl.png", Nat Geo Wild
 http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="BBC Earth HD" tvg-logo=“https://i.ibb.co/BjmTWJg/bbcearth.png", BBC Earth
+#EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="BBC Earth HD" tvg-logo=“https://i.imgur.com/N1f6dvA.png", BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
 #https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="woman" tvg-logo="https://i.imgur.com/ePYXLBQ.png", Woman

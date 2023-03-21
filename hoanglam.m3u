@@ -496,8 +496,6 @@ http://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 http://vips-livecdn.fptplay.net/sda/btv6_2000.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="ncm" tvg-logo="http://i.ibb.co/6bfTFkb/btv10.png" group-title="ĐỊA PHƯƠNG", BTV10 HD 
 http://vips-livecdn.fptplay.net/sda/ncm_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="binhduong11" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_158459383676.png", BTV11 HD 
-http://vips-livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="ĐỊA PHƯƠNG" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_long-an_145880901975.jpg",Long An HD 
 #http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 https://la34.vncdn.vn/live/LA34AAA/chunklist_w462621088.m3u8
@@ -553,6 +551,8 @@ http://vips-livecdn.fptplay.net/sdc/camau_hls.smil/playlist.m3u8
 #KÊNH VOD
 #EXTINF:-1 group-title="KÊNH VOD" tvg-id="vtvcab13hd" tvg-logo=“http://i.ibb.co/RvzsCkn/cab13.jpg", VTV Huynhdai
 http://vips-livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH VOD" tvg-id="binhduong11" tvg-logo="https://i.ibb.co/q9M9PZD/btv-11.png", BTV11 HD 
+http://vips-livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
 
 #Radio
 #EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1

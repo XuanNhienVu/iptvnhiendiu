@@ -235,58 +235,40 @@ https://1117979683.vnns.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #KÊNH SCTV
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV2
-#EXTVLCOPT:http-user-agent="BearTV"
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 - SEE TV
-#EXTVLCOPT:http-user-agent="BearTV"
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png" ,SCTV 4 - Giải trí tổng hợp
-#EXTVLCOPT:http-user-agent="BearTV"
 https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png" ,SCTV 7 - Sân Khấu
-#EXTVLCOPT:http-user-agent="BearTV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.ibb.co/0tVLK8b/sctv8-BEARTV.png" ,SCTV8-VITV - Kinh Tế Tài Chính
-#EXTVLCOPT:http-user-agent="BearTV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv8/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png", SCTV9
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV11
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.ibb.co/nDbnG8h/sctv12-hd-BEARTV.png" ,SCTV 12 - Du Lịch
-#EXTVLCOPT:http-user-agent="BearTV"
 https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://i.ibb.co/YXt8w8v/sctv13-hd-BEARTV.png" ,SCTV13 - Phụ nữ & Gia đình
-#EXTVLCOPT:http-user-agent="BearTV"
 https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png" ,SCTV15 - SSPORT 2
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV17 - SSPORT 
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV18
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.ibb.co/gMJ1GRG/sctv19-hd-BEARTV.png" ,SCTV19 - T CHANNEL
-#EXTVLCOPT:http-user-agent="BearTV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.ibb.co/f9swgvg/sctv20-hd-BEARTV.png" ,SCTV20
-#EXTVLCOPT:http-user-agent="BearTV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.ibb.co/njnhPPB/sctv21-hd-BEARTV.png" ,SCTV21 - Ký ức Việt Nam
-#EXTVLCOPT:http-user-agent="BearTV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/FVFwKRc/sctv22-hd-BEARTV.png" ,SCTV22 - SSPORT1
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP 
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
 
 ##### THỂ THAO
@@ -558,6 +540,10 @@ http://vips-livecdn.fptplay.net/sdc/camau_hls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH VOD" tvg-id="binhduong11" tvg-logo="https://i.ibb.co/q9M9PZD/btv-11.png", BTV11 HD 
 http://vips-livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH VOD" tvg-id="htvcoop" tvg-logo="", HTV CO.OP HD 
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/0fb74baf139837c9ecc8277cce46610b/1679449703431/htv_drm/free_live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u8
+
+
 
 #Radio
 #EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1

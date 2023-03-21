@@ -36,7 +36,6 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/nr7djsD/VTV9.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV9
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-
 ##### CHUYÊN ĐỀ
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="bacninh" tvg-logo="https://i.ibb.co/pLwf7JF/BACNINH-BEARTV.png", Bắc Ninh
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
@@ -78,7 +77,6 @@ https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="cna" tvg-logo="g", CNA
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
-
 
 ### PHIM TRUYỆN
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/n8YQ0hB/sctv14-hd-BEARTV.png",SCTV14 - Kênh Phim Việt
@@ -141,7 +139,6 @@ http://pcriptv.duckdns.org:8002/live/cliptv.php?id=In-The-Box
 #EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV16 - Phim Nước Ngoài
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://sctvonline.vn/
-
 
 ##### KHOA HỌC-KHÁM PHÁ
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="discoveryasiahd" tvg-logo="https://i.ibb.co/2h0kgqB/discoveryasia.png", Discovery Asia 
@@ -535,7 +532,26 @@ http://vips-livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH VOD" tvg-id="htvcoop" tvg-logo="", HTV CO.OP HD 
 https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/0fb74baf139837c9ecc8277cce46610b/1679449703431/htv_drm/free_live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u8
 
-
+#KÊNH THIẾU NHI
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="vtvcab21hd" tvg-logo="https://i.ibb.co/7VS4Jcw/ON-Kids-BEARTV.png", ON KIDS
+https://vietanhtv.xyz/vipvieon.php?id=vtvcab21
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="cartoonhd" tvg-logo="http://i.ibb.co/JqJVv5b/cn.jpg", Cartoon Network HD 
+http://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8 
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="boomerang" tvg-logo="https://i.imgur.com/iNUMohA.png" group-title="KÊNH THIẾU NHI", Boomerang 
+http://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8 
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="DaVinci1" tvg-logo="https://i.imgur.com/aIAaCce.png", Da Vinci HD 
+http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
+#http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="animaxhd" tvg-logo="https://i.imgur.com/RTgouGo.png", Animax HD 
+http://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8 
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="babyfirst" tvg-logo="https://i.imgur.com/HVfKK9I.png", BabyFirst 
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/playlist.m3u8 
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/HaxHhx2.png", BabyTV 
+http://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8 
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/9kq4o69.png", DREAMWORK 
+http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8 
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="tvg-id="cbeebies" tvg-logo="http://i.ibb.co/mHNZbn0/bbc.jpg", Cbeebies 
+http://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
 
 #Radio
 #EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
@@ -572,27 +588,4 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/251.png",Xone FM
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
-
-
-
-#KÊNH THIẾU NHI
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="vtvcab21hd" tvg-logo="https://i.ibb.co/7VS4Jcw/ON-Kids-BEARTV.png", ON KIDS
-https://vietanhtv.xyz/vipvieon.php?id=vtvcab21
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="cartoonhd" tvg-logo="http://i.ibb.co/JqJVv5b/cn.jpg", Cartoon Network HD 
-http://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="boomerang" tvg-logo="https://i.imgur.com/iNUMohA.png" group-title="KÊNH THIẾU NHI", Boomerang 
-http://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="DaVinci1" tvg-logo="https://i.imgur.com/aIAaCce.png", Da Vinci HD 
-http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
-#http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="animaxhd" tvg-logo="https://i.imgur.com/RTgouGo.png", Animax HD 
-http://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="babyfirst" tvg-logo="https://i.imgur.com/HVfKK9I.png", BabyFirst 
-http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/HaxHhx2.png", BabyTV 
-http://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/9kq4o69.png", DREAMWORK 
-http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-id="tvg-id="cbeebies" tvg-logo="http://i.ibb.co/mHNZbn0/bbc.jpg", Cbeebies 
-http://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8 
 

@@ -74,7 +74,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai2" tvg-logo="https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png",Đồng Nai 2 HD 
 #http://vips-livecdn.fptplay.net/sda/dongnai2_hls.smil/playlist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai3" tvg-logo="https://i.ibb.co/6B0LCKJ/dongnai3-BEARTV.png",Đồng Nai 2 HD 
+#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai3" tvg-logo="https://i.ibb.co/K5z5zmP/dongnai3.webp",Đồng Nai 2 HD 
 #http://vips-livecdn.fptplay.net/sda/dongnai3_hls.smil/playlist.m3u8
 #http://118.107.85.4:1935/live/smil:DNTV3.smil/playlist.m3u8
 https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/9b8633204f71d17ffb22640bba3504fe/1679446894841/htv_drm/free_live/dong_nai_3/TV_HD/dong_nai_3_480p/chunks.m3u8

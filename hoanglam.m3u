@@ -66,8 +66,9 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="nhandan" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png", NHÂN DÂN TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
-#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="btv9" tvg-logo="https://i.ibb.co/F08gVbK/BTV9-BEARTV.png", BTV9-AN  HD
+#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="btv9" tvg-logo="https://i.ibb.co/dtZKwt8/An-Vi-n-TV-2020.webp", BTV9-AN  HD
 http://vips-livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8 
+#https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/8836f91da61a024282808f2e8ba8d503/1679448357704/vtvcab/free_live/hd_anvien/TV_HD/hd_anvien_720p/chunks.m3u8
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="dongnai1" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png",Đồng Nai 1 HD 
 #http://vips-livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8 
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8

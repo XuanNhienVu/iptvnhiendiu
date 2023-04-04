@@ -28,7 +28,8 @@ https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/cDYQTfq/VTV5tn.png", VTV5 TÂY NGUYÊN
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
-https://vtvgolive-vtv.vtvdigital.vn/oScKQwYduQZVPnqQLL8bTQ/1680613331/vtvdigital/vtv5tn-manifest.m3u8
+#https://vtvgolive-vtv.vtvdigital.vn/oScKQwYduQZVPnqQLL8bTQ/1680613331/vtvdigital/vtv5tn-manifest.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/7VPM2Ufvpi3qAo9dFhBriQ/1680613798/vtvdigital/vtv5tn-480p.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/gwKr0ZF/vtvCT.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV CẦN THƠ
 https://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/4myNhc7/VTV7.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV7

@@ -144,17 +144,21 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://
 
 ##### KHOA HỌC-KHÁM PHÁ
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="discoveryasiahd" tvg-logo="https://i.ibb.co/2h0kgqB/discoveryasia.png", Discovery Asia 
-http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
+#http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
+http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="discoveryhd" tvg-logo="https://i.ibb.co/2vqRMBB/discovery.png", Discovery HD
-http://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8 
+#http://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8 
+http://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="animalhd" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png", Animal Planet
-http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
-#http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
+http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="ngwhd" tvg-logo="https://i.imgur.com/xl56lDl.png", Nat Geo Wild
-http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
+#http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
+http://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="BBC Earth HD" tvg-logo="https://i.ibb.co/BjmTWJg/bbcearth.png", BBC Earth HD
 #http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="woman" tvg-logo="https://i.imgur.com/ePYXLBQ.png", Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #http://pcriptv.duckdns.org:8002/live/cliptv.php?id=Woman
@@ -162,8 +166,9 @@ https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/aIAaCce.png", Da Vinci
 http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="ngchd" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/OBtLQ9N.png",National Geographic
+#EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="ngchd" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/OBtLQ9N.png", National Geographic
 http://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/bbOifca.png", Outdoor Channel
 http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #http://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
@@ -176,6 +181,7 @@ https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="drfithd" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png", Dr. Fit
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn
+#http://pcriptv.duckdns.org:8002/live/cliptv.php?id=Dr.Fit
 #EXTINF:0 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="fashionhd" tvg-logo="https://i.ibb.co/y4WhpNb/FASHION-TV-BEARTV.png", Fashion TV
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="blueantext" tvg-logo="https://i.imgur.com/fjBYOhl.png", Blue Ant Extreme HD 

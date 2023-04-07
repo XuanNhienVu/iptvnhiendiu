@@ -157,8 +157,11 @@ http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 http://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="BBC Earth HD" tvg-logo="https://i.ibb.co/BjmTWJg/bbcearth.png", BBC Earth HD
 #http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
-http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp", Planet Earth
+https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="KHOA HỌC-KHÁM PHÁ" tvg-id="woman" tvg-logo="https://i.imgur.com/ePYXLBQ.png", Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #http://pcriptv.duckdns.org:8002/live/cliptv.php?id=Woman

@@ -56,17 +56,17 @@ https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 ##### VTV Cab
-#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="vtvcab1hd" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png", Vie GIẢI TRÍ
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab1hd" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png", Vie GIẢI TRÍ
 https://livevlive.vtvcab.vn/hls/GIAITRI_TV_HD_CL/sc-gaFEAQ/m20_index.m3u8
-#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="vtvcab2hd" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png", ON PHIM VIỆT
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab2hd" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png", ON PHIM VIỆT
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/tsBYvZ4/onsports-BEARTV.png", ON SPORTS
 https://code.vthanhtivi.pw/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/playlist.m3u8
-#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="vtvcab4hd" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png", ON MOVIES
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab4hd" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png", ON MOVIES
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-id="vtvcab5hd" tvg-logo="https://i.ibb.co/5FPVFRh/VTVCAB5-BEARTV.png", E Channel
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab5hd" tvg-logo="https://i.ibb.co/5FPVFRh/VTVCAB5-BEARTV.png", E Channel
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab6hd" tvg-logo="https://i.ibb.co/xjQCdtY/onsport-BEARTV.png", ON SPORTS +
@@ -492,7 +492,7 @@ http://vips-livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8
 #https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/8836f91da61a024282808f2e8ba8d503/1679448357704/vtvcab/free_live/hd_anvien/TV_HD/hd_anvien_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ncm" tvg-logo="http://i.ibb.co/6bfTFkb/btv10.png" group-title="ĐỊA PHƯƠNG", BTV10 HD 
 http://vips-livecdn.fptplay.net/sda/ncm_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="DỊA PHƯƠNG" tvg-id="binhduong11" tvg-logo="https://i.ibb.co/q9M9PZD/btv-11.png", BTV11 HD 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="binhduong11" tvg-logo="https://i.ibb.co/q9M9PZD/btv-11.png", BTV11 HD 
 http://vips-livecdn.fptplay.net/sda/btv11_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai1" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png", Đồng Nai 1 HD 
 #http://vips-livecdn.fptplay.net/sda/dongnai1_hls.smil/playlist.m3u8 

@@ -37,6 +37,18 @@ https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/cDYQTfq/VTV5tn.png", VTV5 TÂY NGUYÊN
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 http://nvzoftzsvflivnt.vcdn.com.vn/vtv5tn/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tn@high.m3u8
+#EXTINF:0 group-title="CHUYÊN ĐỀ" tvg-id="quochoi" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-BEARTV.png", QUỐC HỘI TV
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="ttxvnhd" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png", VNewsTTXVN
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="CHUYÊN ĐỀ" tvg-id="vovtvhd" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png", VOV TV HD
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="nhandan" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png", NHÂN DÂN TV
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+
+
 
 ##### CHUYÊN ĐỀ
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="bacninh" tvg-logo="https://i.ibb.co/pLwf7JF/BACNINH-BEARTV.png", Bắc Ninh
@@ -49,16 +61,7 @@ https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="CHUYÊN ĐỀ" tvg-id="qpvnhd" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", QPVN HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="CHUYÊN ĐỀ" tvg-id="quochoi" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-BEARTV.png", QUỐC HỘI TV
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="ttxvnhd" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png", VNewsTTXVN
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="CHUYÊN ĐỀ" tvg-id="vovtvhd" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png", VOV TV HD
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="nhandan" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png", NHÂN DÂN TV
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+
 #EXTINF:-1 group-title="CHUYÊN ĐỀ" tvg-id="btv9" tvg-logo="https://i.ibb.co/dtZKwt8/An-Vi-n-TV-2020.webp", BTV9-AN  HD
 http://vips-livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8 
 #https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/8836f91da61a024282808f2e8ba8d503/1679448357704/vtvcab/free_live/hd_anvien/TV_HD/hd_anvien_720p/chunks.m3u8

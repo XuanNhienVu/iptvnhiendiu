@@ -181,7 +181,7 @@ http://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/playlist.m3u8
 http://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8 
 #EXTINF:-1 group-title="KÊNH HTV" tvg-id="htvthethaohd" tvg-logo="http://i.ibb.co/BsT7gcT/htvthethao.png",HTV Thể Thao HD 
 http://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV" tvg-id="htvcoop" tvg-logo="", HTV CO.OP HD 
+#EXTINF:-1 group-title="KÊNH HTV" tvg-id="htvcoop" tvg-logo="", HTV CO.OP HD 
 https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/0fb74baf139837c9ecc8277cce46610b/1679449703431/htv_drm/free_live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u8
 
 #### SCTV

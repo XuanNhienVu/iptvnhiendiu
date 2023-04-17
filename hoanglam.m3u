@@ -258,7 +258,8 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/CnjjjjV.png", Warner HD 
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="axnhd" tvg-logo="https://i.imgur.com/3bLRZzC.png", AXN HD 
-http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
+#http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/NDQwMzUzOXxheG5oZF92aGxzLnNtaWx8dmlldHRlbHwxNjgxNzM0Mzg1fDE3MS4yNDkuNDkuNjl8YjI1ZjY0MjJiYzIwZWFiYmIxNWI1YmRjMTQ0OGUyYjY/hda4/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="boxhits" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
 #https://api.vthanhtivi.pw/v2/getlink/mytv/105/hd.m3u8
 #http://pcriptv.duckdns.org:8002/live/cliptv.php?id=Box-Hits

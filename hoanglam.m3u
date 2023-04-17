@@ -249,7 +249,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png", Cinema World
 #http://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-http://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
+#http://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/NDQwMzUzOXxjaW5lbWF3b3JrX3ZobHMuc21pbHx2aWV0dGVsfDE2ODE3MzM5NzF8MTcxLjI0OS40OS42OXxkNzZkYzljZTZlMTE0MDllNDdkYTU4NzdkYWZlMjBkOA/hda4/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/pjnAxys.png", Cinemax HD 
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="hbohd" tvg-logo="https://i.imgur.com/w5u4IrO.png", HBO HD 

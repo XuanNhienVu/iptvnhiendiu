@@ -226,6 +226,10 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Refere
 
 
 #### QUỐC TẾ
+#EXTINF:-1 group-title="QUỐC TẾ"  tvg-id="hits" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
+https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ"  tvg-id="hgtv" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
+https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bbcworldnews" tvg-logo="https://i.ibb.co/K0qtvsf/BBC-Worldnews-BEARTV.png", BBC World News
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-name="CNN" tvg-logo="https://i.imgur.com/vBwWXZZ.png", CNN
@@ -246,7 +250,9 @@ https://vips-livecdn.fptplay.net/NDQwMzUzOXxjaW5lbWF3b3JrX3ZobHMuc21pbHx2aWV0dGV
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/pjnAxys.png", Cinemax HD 
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="hbohd" tvg-logo="https://i.imgur.com/w5u4IrO.png", HBO HD 
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
+#http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
+#http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/31465.m3u8
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/CnjjjjV.png", Warner HD 
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="axnhd" tvg-logo="https://i.imgur.com/3bLRZzC.png", AXN HD 
